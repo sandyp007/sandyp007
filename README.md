@@ -78,7 +78,9 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sandyp007&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandyp007&" alt="Sandeep" />
-</div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandyp007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandyp007&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
