@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I love to watch Anime..
+- ⚡ Fun fact: I love to watch Anime...
 
 ## 🛠️ Technologies and Tools I use:
 
